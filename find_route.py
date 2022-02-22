@@ -1,7 +1,5 @@
 """
-Net_Id : 1001861545
 Name : Pruthvik Kakadiya
-Assignment 1
 """
 
 import sys
