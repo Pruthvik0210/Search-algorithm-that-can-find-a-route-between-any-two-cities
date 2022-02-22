@@ -1,11 +1,9 @@
-UTA ID : 1001861545
+
 Name : Pruthvik Kakadiya
-CSE 5360 AI 1
-Assignment 1
 
 
 Coding Lenguage : Python
-Omega compatibility : Not checked 
+
 
 
 To compile:
